@@ -1,1 +1,3 @@
-![list](./list.png)
+
+
+<img src="./list.png" width="30%" />
